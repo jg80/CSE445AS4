@@ -1,4 +1,6 @@
-<Hotels xsi:schemaLocation="https://jg80.github.io/CSE445AS4 Hotels.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Hotels xmlns="https://jg80.github.io/CSE445AS4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://jg80.github.io/CSE445AS4 Hotels.xsd">
 
 <Hotel Rating=4.3>
 <Name>Hyatt Place Tempe / Phoenix / University</Name>
