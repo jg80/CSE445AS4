@@ -1,4 +1,4 @@
-<xsd:schema targetNamespace="http://venus.sod.asu.edu/WSRepository/xml" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xsd:schema targetNamespace="https://jg80.github.io/CSE445AS4" elementFormDefault="qualified" attributeFormDefault="unqualified">
 <xsd:element name="Hotels" type="HotelsType"/>
 <xsd:complexType name="HotelsType">
 <xsd:sequence>

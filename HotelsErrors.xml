@@ -1,4 +1,4 @@
-<Hotel xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
+<Hotel xsi:schemaLocation="https://jg80.github.io/CSE445AS4 Hotels.xsd">
 
 <Hotel Rating=4.3>
 <Name>Hyatt Place Tempe / Phoenix / University</Name>
