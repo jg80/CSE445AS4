@@ -2,7 +2,7 @@
 
 <Hotels xmlns="https://jg80.github.io/CSE445AS4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://jg80.github.io/CSE445AS4 Hotels.xsd">
 
-<Hotel Rating=4.3>
+<Hotel Rating="4.3">
 <Name>Hyatt Place Tempe / Phoenix / University</Name>
 <Phone>480-207-1578</Phone>
 <Address NearestAirport="PHX">
@@ -53,7 +53,7 @@
 </Address>
 </Hotel>
 
-<Hotel Rating=4.6>
+<Hotel Rating="4.6">
 <Name>Tempe Oasis</Name>
 <Phone>480-219-9837</Phone>
 <Address NearestAirport="PHX">
@@ -65,7 +65,7 @@
 </Address>
 </Hotel>
 
-<Hotel Rating=4.4>
+<Hotel Rating="4.4">
 <Name>University Inn Tempe/ASU</Name>
 <Phone>480-966-7221</Phone>
 <Address NearestAirport="PHX">
@@ -77,7 +77,7 @@
 </Address>
 </Hotel>
 
-<Hotel Rating=4.4>
+<Hotel Rating="4.4">
 <Name>AC Hotel Phoenix Tempe/Downtown</Name>
 <Phone>480-642-6140</Phone>
 <Phone>480-642-6141</Phone>
@@ -102,7 +102,7 @@
 </Address>
 </Hotel>
 
-<Hotel Rating=4.2>
+<Hotel Rating="4.2">
 <Name>Graduate by Hilton Tempe</Name>
 <Phone>480-967-9431</Phone>
 <Address NearestAirport="PHX">
