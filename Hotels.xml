@@ -1,0 +1,127 @@
+<Hotels xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
+
+<Hotel Rating=4.3>
+<Name>Hyatt Place Tempe / Phoenix / University</Name>
+<Phone>480-207-1578</Phone>
+<Address NearestAirport="PHX">
+<Number>601</Number>
+<Street>E 6th St</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85281</Zip>
+</Address>
+<Rating>4.3</Rating>
+</Hotel>
+
+<Hotel>
+<Name>Sonesta Select Tempe Downtown</Name>
+<Phone>480-966-2800</Phone>
+<Address NearestAirport="PHX">
+<Number>601</Number>
+<Street>S Ash Ave</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85281</Zip>
+</Address>
+</Hotel>
+
+<Hotel>
+<Name>Moxy Phoenix Tempe/ASU Area</Name>
+<Phone>480-968-3451</Phone>
+<Phone>480-968-3452</Phone>
+<Address NearestAirport="PHX">
+<Number>1333</Number>
+<Street>S Rural Rd</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85281</Zip>
+</Address>
+</Hotel>
+
+<Hotel>
+<Name>Scottsdale Parkview Resort</Name>
+<Phone>480-941-1202</Phone>
+<Phone>480-941-1203</Phone>
+<Address NearestAirport="PHX">
+<Number>7707</Number>
+<Street>E McDowell Rd</Street>
+<City>Scottsdale</City>
+<State>AZ</State>
+<Zip>85257</Zip>
+</Address>
+</Hotel>
+
+<Hotel Rating=4.6>
+<Name>Tempe Oasis</Name>
+<Phone>480-219-9837</Phone>
+<Address NearestAirport="PHX">
+<Number>1635</Number>
+<Street>N Scottsdale Rd</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85288</Zip>
+</Address>
+</Hotel>
+
+<Hotel Rating=4.4>
+<Name>University Inn Tempe/ASU</Name>
+<Phone>480-966-7221</Phone>
+<Address NearestAirport="PHX">
+<Number>902</Number>
+<Street>S Mill Ave</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85281</Zip>
+</Address>
+</Hotel>
+
+<Hotel Rating=4.4>
+<Name>AC Hotel Phoenix Tempe/Downtown</Name>
+<Phone>480-642-6140</Phone>
+<Phone>480-642-6141</Phone>
+<Address NearestAirport="PHX">
+<Number>100</Number>
+<Street>E Rio Salado Pkwy</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85281</Zip>
+</Address>
+</Hotel>
+
+<Hotel>
+<Name>The Westin Tempe</Name>
+<Phone>480-968-8885</Phone>
+<Address NearestAirport="PHX">
+<Number>11</Number>
+<Street>E 7th St</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85281</Zip>
+</Address>
+</Hotel>
+
+<Hotel Rating=4.2>
+<Name>Graduate by Hilton Tempe</Name>
+<Phone>480-967-9431</Phone>
+<Address NearestAirport="PHX">
+<Number>225</Number>
+<Street>E Apache Blvd</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85281</Zip>
+</Address>
+</Hotel>
+
+<Hotel>
+<Name>Aloft Tempe</Name>
+<Phone>480-621-3300</Phone>
+<Address NearestAirport="PHX">
+<Number>951</Number>
+<Street>E Playa Del Norte Dr</Street>
+<City>Tempe</City>
+<State>AZ</State>
+<Zip>85288</Zip>
+</Address>
+</Hotel>
+
+</Hotels>
